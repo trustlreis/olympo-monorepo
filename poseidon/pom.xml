@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>poseidon</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>poseidon</name>
     <description>poseidon</description>
     <properties>
@@ -86,7 +86,7 @@
         <connection>scm:git:ssh://git@github.com/trustlreis/olympo-monorepo.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/trustlreis/olympo-monorepo.git</developerConnection>
         <url>git@github.com/trustlreis/olympo-monorepo.git</url>
-        <tag>poseidon-0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
