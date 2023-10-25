@@ -31,6 +31,12 @@
         </repository>
     </distributionManagement>
 
+    <scm>
+        <connection>scm:git:ssh://git@github.com:trustlreis/olympo-monorepo.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:trustlreis/olympo-monorepo.git</developerConnection>
+        <url>git@github.com:trustlreis/olympo-monorepo.git</url>
+    </scm>
+
     <build>
         <plugins>
             <plugin>
