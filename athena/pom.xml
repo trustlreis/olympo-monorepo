@@ -15,7 +15,7 @@
     <description>athena</description>
     <properties>
         <java.version>17</java.version>
-        <commons.model.version>1.0-SNAPSHOT</commons.model.version>
+        <commons.model.version>1.0.0</commons.model.version>
     </properties>
     <dependencies>
 
