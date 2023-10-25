@@ -15,7 +15,7 @@
     <description>poseidon</description>
     <properties>
         <java.version>17</java.version>
-        <commons.utils.version>1.0-SNAPSHOT</commons.utils.version>
+        <commons.utils.version>1.0.0</commons.utils.version>
     </properties>
     <dependencies>
 
