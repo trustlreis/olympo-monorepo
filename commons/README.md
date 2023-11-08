@@ -27,3 +27,5 @@ mvn -B release:prepare -DreleaseVersion=1.0.0 -DdevelopmentVersion=1.0.1-SNAPSHO
 
 * the `TAG` will be generated automatically using the `${project.name}-@{project.version}`
 
+
+
